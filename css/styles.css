@@ -1,0 +1,27 @@
+body {
+  background-color: #e6ddc4;
+}
+
+hr {
+  border-color: #678983;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+}
+
+h1 {
+  color: #678983;
+}
+
+h3 {
+  color: #678983;
+}
+/* 
+img {
+  border-radius: 100%;
+} */
+
+img:hover {
+  background-color: skyblue;
+}
